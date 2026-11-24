@@ -1,8 +1,10 @@
 # One Word, One Username, One Reward
 
-Entry for the make.fun competition
-`u-rusdyxbt-one-word-one-username-one-reward-1a191fae` ($5, deadline
-2026-11-27 07:50 CST).
+Entry for the make.fun competition `u-rusdyxbt-one-word-one-username-one-reward-1a191fae` ($5, deadline 2026-11-27 07:50 CST).
+
+[![make.fun](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![Rank](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/ZQ051031/one-word-username-20261124/rank.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
+[![Reward](https://make.fun/badge/u-rusdyxbt-one-word-one-username-one-reward-1a191fae/ZQ051031/one-word-username-20261124/reward.svg)](https://make.fun/bounty/u-rusdyxbt-one-word-one-username-one-reward-1a191fae?utm_source=github&utm_medium=readme&utm_campaign=u-rusdyxbt-one-word-one-username-one-reward-1a191fae)
 
 ## The entry
 
